@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
